@@ -10,3 +10,18 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     <a href="https://github.com/booIeann/?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/booIeann?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub Badge" /></a>
 </p>
+
+# 📫 How to reach me:
+
+- [Twitter](https://twitter.com/booIeann)
+- [LinkedIn](https://www.linkedin.com/in/booIeann/)
+- [Instagram](https://www.instagram.com/booIeann/)
+- [Facebook](https://www.facebook.com/booIeann/)
+- [Website](https://booIeann.github.io/)
+
+# 📊 My GitHub Stats:
+
+<p align="center">
+    <a href="           " target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=booIeann&show_icons=true&theme=radical" alt="booIeann" /></a>
+</p>
+
