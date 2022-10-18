@@ -6,6 +6,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <p align="left">
     <a href="https://github.com/booIeann/?tab=followers">
-    <img src="https://img.shields.io/github/followers/booIeann?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-    </a>
+    <img src="https://img.shields.io/github/followers/booIeann?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Badge" /></a>
+    <a href="https://github.com/booIeann/?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/booIeann?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub Badge" /></a>
 </p>
