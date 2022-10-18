@@ -11,7 +11,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     <img src="https://img.shields.io/github/stars/booIeann?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub Badge" /></a>
 </p>
 
-# langauge and tools
+# 💼 Language and Tools
 
 <p align="left">
     <a href="https://www.python.org/" target="_blank">
@@ -52,3 +52,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <p align="center">
     <a href="" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=booIeann&show_icons=true&theme=radical" alt="booleann" /></a>
 </p>
+
