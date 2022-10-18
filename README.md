@@ -30,6 +30,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
     <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="mysql" width="40" height="40"/></a>
+    <a href="#" target="_blank">
 </p>
 
 # 📫 How to reach me:
