@@ -35,10 +35,7 @@ I am a skilled developer/network engineer with over 5 years of experience in Pro
 </p>
 
 # 📫 How to reach me:
-
-- [Twitter](https://twitter.com/booIeann)
-- [Instagram](https://www.instagram.com/booIeann/)
-- [Email](mailto: "email@email.com")
+- [Email](mailto: "booleann03@gmail.com")
 
 # 📊 My GitHub Stats:
 
